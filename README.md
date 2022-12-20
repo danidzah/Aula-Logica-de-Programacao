@@ -1,2 +1,2 @@
-# Aula-L-gica-de-Programa-o
+# Aula-Logica-de-programacao
 Aulas desenvolvidas no Bootcamp Generation
